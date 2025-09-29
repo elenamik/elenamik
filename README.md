@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Lena, a software engineer working on interactive UIs, blockchain protocols, and design systems.
+I'm Lena, a software engineer working on interactive UIs and developer tools for blockchains frontend development.
 
 - 🌱 Currently building at Timewave Labs
 - ⚡ My favorite thing about building products is making things easy and intuitive for users
