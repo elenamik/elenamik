@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 I'm Lena, a software engineer working on interactive UIs, blockchain protocols, and design systems.
 
 - 🌱 Currently building at Timewave Labs
-- ⚡ Fun fact: My favorite thing about building products is making things easy and intuitive for users
+- ⚡ My favorite thing about building products is making things easy and intuitive for users
