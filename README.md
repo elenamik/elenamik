@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Lena, a software engineer working on interactive UIs and developer tools for blockchains frontend development.
+I'm Lena, a software engineer working on interactive UIs and developer tools for blockchain frontends.
 
 ⚡ You can reach me on x.com at @mikleens
