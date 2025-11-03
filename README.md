@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 I'm Lena, a software engineer working on interactive UIs and developer tools for blockchains frontend development.
 
-- 🌱 Currently building at Timewave Labs
-- ⚡ You can reach me on x.com at @mikleens
+⚡ You can reach me on x.com at @mikleens
